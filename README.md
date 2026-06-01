@@ -14,3 +14,4 @@
 - 🍽️ [Restaurant Website](https://github.com/Shreyash-2007/Restaurant) — Online menu platform (HTML/CSS)
 - 📈 [Crypto Dashboard](https://github.com/Shreyash-2007/Crypto-Currency-Dashboard) — Power BI market analytics
 - 🛒 [Retail Data Analysis](https://github.com/Shreyash-2007/Data-Analysics) — Excel end-to-end analytics
+- 🎵 [Music Player](https://github.com/Shreyash-2007/Music-Player-Web-Application) — Music Player Web Application
