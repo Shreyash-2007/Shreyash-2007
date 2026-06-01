@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shreyash Patel 👋
 
-<!--
-**Shreyash-2007/Shreyash-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at LJ University (2024–2027)
+💻 Aspiring Full-Stack Developer | HTML • CSS • JavaScript • PHP • MySQL • Java
+📊 Data Enthusiast | Power BI • Excel • Python
+🚀 Currently building: Web projects & exploring backend development
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shreyash-patel-a240a4306/)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `Core Java` `Python` `Power BI` `Excel`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🌍 [Go-Trip Online](https://github.com/Shreyash-2007/Go-Trip-Online) — Travel website (HTML/CSS, live on Netlify)
+- 🍽️ [Restaurant Website](https://github.com/Shreyash-2007/Restaurant) — Online menu platform (HTML/CSS)
+- 📈 [Crypto Dashboard](https://github.com/Shreyash-2007/Crypto-Currency-Dashboard) — Power BI market analytics
+- 🛒 [Retail Data Analysis](https://github.com/Shreyash-2007/Data-Analysics) — Excel end-to-end analytics
